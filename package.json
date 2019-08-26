@@ -1,6 +1,6 @@
 {
-  "name": "rui-aliyun-vod-upload-js",
-  "version": "1.0.0",
+  "name": "rui-aliyun-vod-upload",
+  "version": "1.0.13",
   "description": "阿里云点播视频上传web端",
   "main": "lib/index.js",
   "scripts": {
@@ -25,7 +25,6 @@
     "watchify": "^3.11.0",
     "webpack": "^4.25.1"
   },
-  "dependencies": {},
   "browserify-shim": {
     "external": "global:External"
   },
