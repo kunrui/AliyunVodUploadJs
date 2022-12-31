@@ -23,7 +23,7 @@
     "karma-chrome-launcher": "^2.2.0",
     "karma-jasmine": "^1.1.2",
     "watchify": "^3.11.0",
-    "webpack": "^4.25.1"
+    "webpack": "^5.75.0"
   },
   "browserify-shim": {
     "external": "global:External"
